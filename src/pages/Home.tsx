@@ -1,7 +1,7 @@
 export function Home() {
   return (
     <div>
-      +<h3 style={{ fontSize: "50px" }}>Menu</h3>
+      <h3 style={{ fontSize: "50px" }}>Menu</h3>
       <ul style={{ fontSize: "35px" }}>
         <li>onions</li>
         <li>tomato</li>
