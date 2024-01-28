@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Onions",
+      "price": 20.95,
+      "imgUrl": "../../public/images/onions.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Tomato",
+      "price": 10.91,
+      "imgUrl": "../../public/images/Tomato.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 25,
+      "imgUrl": "../../public/images/banana.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Potato",                          
+      "price": 30,
+      "imgUrl": "../../public/images/Potato.jpeg"
+    },
+    {
+      "id":5,
+      "name":"Apples",
+      "price":50,
+      "imgUrl":"../../public/images/Apples.jpeg"
+    },
+    {
+      "id":6,
+      "name":"Oranges",
+      "price":50,
+      "imgUrl":"../../public/images/Oranges.jpeg"
+    },
+    {
+      "id":7,
+      "name":"Watermelon",
+      "price":20,
+      "imgUrl":"../../public/images/Watermelon.jpeg"
+    },
+    {
+      "id":8,
+      "name":"Bingo(chilli)",
+      "price":9.5,
+      "imgUrl":"../../public/images/Bingo (chilli).jpeg"
+    },
+    {
+      "id":9,
+      "name":"kurkure",
+      "price":10,
+      "imgUrl":"../../public/images/Kurkure.jpeg"
+    }
+  ]
